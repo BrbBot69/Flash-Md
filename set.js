@@ -20,7 +20,7 @@ module.exports = {
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_SAVE_STATUS || 'off',
     A_REACT: process.env.AUTO_REACTION || 'on',
     AUTO_BLOCK: process.env.BLOCK_ALL || 'off',
-    URL: process.env.BOT_MENU_LINKS || 'https://static.animecorner.me/2023/08/op2.jpg',
+    URL: process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/f6yvcj.jpg',
     MODE: process.env.BOT_MODE || "private",
     PM_PERMIT: process.env.PM_PERMIT || 'on',
     HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
